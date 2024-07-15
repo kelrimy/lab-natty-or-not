@@ -19,7 +19,7 @@ O eBook foi criado utilizando Google Docs para a escrita e formatação do conte
 A criação deste eBook foi um desafio interessante, especialmente ao explorar as potencialidades das IAs generativas e as discussões éticas que envolvem o seu uso.
 
 ## Link para o eBook
-- [Acesse o eBook sobre IAs Generativas](https://docs.google.com/presentation/d/1jTkwkrKMpufweVCyApI_7i99BwMm2zXgBX8AP4JotUc/edit?usp=drive_link)
+- [CLIQUE PARA ACESSAR O EBOOK](https://docs.google.com/presentation/d/1jTkwkrKMpufweVCyApI_7i99BwMm2zXgBX8AP4JotUc/edit?usp=drive_link)
 
 ## Exemplos e Insights
 - Abordagem de diferentes modelos de IAs generativas
